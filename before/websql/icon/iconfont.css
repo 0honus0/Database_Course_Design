@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1609765637908'); /* IE9 */
+  src: url('iconfont.eot?t=1609765637908#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO8AAsAAAAAB9QAAANtAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDPIMWATYCJAMMCwgABCAFhG0HNxvdBhEVnGnIfiRUPBn6prnmNctttaP4JgNz6klyPBeI2emAkN9JgIC8rU27t46qZMna6ad/IA87XAgdwogKWSH7x73TxhKcDyiXObZ+6gKMAwpo7EVWIAl6y+HMq/Do2gwEgDyMOSKR0YmZEMCB9CIASGNdTRmElAZcTT6BAAK+ZCIHMgsSCHQyvQZgpv998hXuCQCFhIEMTK2OqkToB70PdkyUiSh0UeCOZwIgTgMYAEcAB5DiUksuWBhxxCCvS7j6dB4cCOhYfpkMn2OIePqHB1AQgPAguYoAAFscpcAHPZsTS+2Ad9bcm5PxODYTcNaSaforEkhCVVX1FeU6Tj4kDx5k37uXKd4PcodvnrpV5+HDnIVLCZEu0b7ywDxRcv9+1qp7sfM0CUpLOJ+xMqL5jVi9lu9TPnDHmK2866Oy/7YRXXare94mUHGzgkpNPpNu0c6esmVs0aZIKX1ISFPvNzKbt6n2wgPztQ9jzmuLrrqXve+YeHzqSemJTeUfPBuCafvChW2EMt2H0fZgr8b3be6TrmFE1cPEQ4UMLjjcZ7j7jyJT2L12fWSFEslobs4gwASms6RSZMX68sjIWHmF/Co1s9E+gwVHyKBKl+mqGJl4Dd6GT4lZwgohS/SbfDK8paa0QllN+ZSdskJJ7VbISBCkDTNnNjhCKjCBmTzEUE051KUjP6/dRdrhkp/v3K6ipOZIXqenKynZpNe3SUZGkaC3pj+i6XYoBQDITrD1LByQjbJTbOQf/gZt+cd3lqgE/hcUOADAMz1Pie+SjXJolw0IoEBr7h/jtizjDD7RMk7j2BzLw5CC8VygALAkKf5TIQCoe9HfpgWxiUCQuAAUY2AEDAIs0RzeESRQgCfwEBAC8nAQM10BGtrBQDg5APbGIyBQtRMolHESGFQpvugW/gdtG3/omNWEgUfLBYe2RYM9oxL0wf1A5FGumV4GQf4FgypVnOT75AdyGfnBNqxs/Iw58hhDymfgiGjQTBmc0HaYpgQFU4yeGKFIsTNNXfYmw6OsNrDHkCKQD7g+QMRDctqtLga5z1+gQCWlcA2izviAWCmqH9gMVgv0WZK3QlzLNaWngEMIDWiMZMAJmVBKIwQU5e1iyCMMYY9QYcfElXRbiTG/LHu+NQDyyIosShjh0JnyIKxaWZSpWg0AAAA=') format('woff2'),
+  url('iconfont.woff?t=1609765637908') format('woff'),
+  url('iconfont.ttf?t=1609765637908') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1609765637908#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yonghu:before {
+  content: "\e629";
+}
+
+.icon-mima:before {
+  content: "\e619";
+}
+
